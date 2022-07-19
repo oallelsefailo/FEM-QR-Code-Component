@@ -113,7 +113,7 @@ main {
 .hero {
     height: 280px;
     margin: 15px;
-    background-image: url(/images/image-qr-code.png);
+    background-image: url(images/image-qr-code.png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
