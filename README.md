@@ -13,8 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github source]([https://your-solution-url.com](https://github.com/oallelsefailo/FEM-QR-Code-Component.git))
+- Live Site URL: [Github pages](https://oallelsefailo.github.io/FEM-QR-Code-Component/)
 
 ### Built with
 
@@ -26,5 +26,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Brandon](https://www.linkedin.com/in/brandon-iida-07000842/))
 - Frontend Mentor - [@oallelsefailo](https://www.frontendmentor.io/profile/oallelsefailo)
